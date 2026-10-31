@@ -2,6 +2,8 @@
 
 Website for **Over The Top Party Rentals**, a party rental company in Culpeper, VA. Built by [Built by Laird](https://daveohdoesdev.github.io/built-by-laird/).
 
+> **Demo site.** The contact form isn't connected yet; see `SETUP.md` to hook it up.
+
 **Live:** https://daveohdoesdev.github.io/otp-website/
 
 ## What's here
